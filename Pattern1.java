@@ -1,3 +1,5 @@
+/* Code for printing patterns */
+
 import java.util.*;
 
 class Pattern1{
